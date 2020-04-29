@@ -18,11 +18,6 @@ System Testing
 System testing is the execution of the software in its final configuration, including
 integration with other software and hardware systems
 
-Unit Testing usually done by the developer.
-
-Black box is to test the external output
-White box is to test the interal input like source code.
-
 Acceptance Testing
 
 The acceptance testing plan is created during the design phase and the actual testing is
