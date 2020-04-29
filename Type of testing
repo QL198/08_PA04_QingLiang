@@ -1,0 +1,12 @@
+Unit Testing
+1. Unit testing is the execution of a complete class, routine or small program that has been
+written by a single programmer or team of programmers
+2. Unit Testing is conducted by developer
+3. It is type of whitebox testing.
+
+Integration Testing
+1. Integration testing is the combined execution of two or more classes, packages,
+components, or subsystems that have been created by multiple programmers or
+programming teams
+2. Integration Testing is conducted by tester
+3. It is type of both whitebox and blackbox testing
