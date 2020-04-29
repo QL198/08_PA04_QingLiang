@@ -13,21 +13,19 @@ programming teams
 
 Update Version
 ------------------------------------------------------
-Unit Testing 
+System Testing
 
-Unit testing is the execution of a complete class, routine or small program that has been
-written by a single programmer or team of programmers, which is tested in isolation
-from the more complete system.
+System testing is the execution of the software in its final configuration, including
+integration with other software and hardware systems
 
 Unit Testing usually done by the developer.
 
 Black box is to test the external output
 White box is to test the interal input like source code.
 
-Integration Testing
+Acceptance Testing
 
-Integration testing is the combined execution of two or more classes, packages,
-components, or subsystems that have been created by multiple programmers or
-programming teams.
+The acceptance testing plan is created during the design phase and the actual testing is
+done after the system is fully developed and tested.
 
 Created by denniswong10
